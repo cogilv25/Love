@@ -1,0 +1,1 @@
+Square pattern by CL,fffffffffffffffffff---F,90,F,+++fFfFf+fFfFf+fFfFf+fFfFf

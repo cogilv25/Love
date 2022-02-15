@@ -1,0 +1,1 @@
+Pentagon pattern 1 by CL,fffffffffffffffffff---F,72,F,FFFFF+FFFFF+FFFFF+FFFFF+FFFFF

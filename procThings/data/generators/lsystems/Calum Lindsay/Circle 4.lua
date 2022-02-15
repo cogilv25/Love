@@ -1,0 +1,1 @@
+Circle pattern 4 by CL,ffffffffffffffffffffffffffff---F,22.5,F,+++fFfFf+fFfFf+fFfFf+fFfFf+fFfFf+fFfFf+fFfFf+fFfFf+fFfFf+fFfFf+fFfFf+fFfFf+fFfFf+fFfFf+fFfFf+fFfFf

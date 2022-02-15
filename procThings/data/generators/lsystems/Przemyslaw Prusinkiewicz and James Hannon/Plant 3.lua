@@ -1,0 +1,1 @@
+Plant by PP & JH,Y,25.7,Y,YFX[+Y][-Y],X,X[-FFF][+FFF]FX

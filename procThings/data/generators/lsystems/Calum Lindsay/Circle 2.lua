@@ -1,0 +1,1 @@
+Circle pattern 2 by CL,ffffffffffffffffffffffffffff---F,22.5,F,+++FffF+FffF+FffF+FffF+FffF+FffF+FffF+FffF+FffF+FffF+FffF+FffF+FffF+FffF+FffF+FffF

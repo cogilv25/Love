@@ -1,0 +1,1 @@
+Heptagon pattern 3 by CL,fffffffffffffffffff---F,51.4287,F,FfFfF+FfFfF+FfFfF+FfFfF+FfFfF+FfFfF+FfFfF

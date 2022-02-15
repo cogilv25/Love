@@ -1,0 +1,1 @@
+Plant by PP & JH,X,20,X,F[+X]F[-X]+X,F,FF

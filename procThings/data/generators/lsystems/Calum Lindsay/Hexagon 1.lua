@@ -1,0 +1,1 @@
+Hexagon pattern 1 by CL,fffffffffffffffffff---F",60,F,FFFFF+FFFFF+FFFFF+FFFFF+FFFFF+FFFFF

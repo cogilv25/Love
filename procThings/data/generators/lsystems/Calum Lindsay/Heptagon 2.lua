@@ -1,0 +1,1 @@
+Heptagon pattern 2 by CL,fffffffffffffffffff---F,51.4287,F,FFfFF+FFfFF+FFfFF+FFfFF+FFfFF+FFfFF+FFfFF

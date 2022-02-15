@@ -1,0 +1,1 @@
+Circle pattern 3 by CL,ffffffffffffffffffffffffffff---F,22.5,F,+++fFFf+fFFf+fFFf+fFFf+fFFf+fFFf+fFFf+fFFf+fFFf+fFFf+fFFf+fFFf+fFFf+fFFf+fFFf+fFFf

@@ -1,0 +1,1 @@
+Circle pattern 5 by CL,fffffffffffffffffffffffffffffffffffffffffffff---F,22.5,F,+++fFfFFfFf+fFfFFfFf+fFfFFfFf+fFfFFfFf+fFfFFfFf+fFfFFfFf+fFfFFfFf+fFfFFfFf+fFfFFfFf+fFfFFfFf+fFfFFfFf+fFfFFfFf+fFfFFfFf+fFfFFfFf+fFfFFfFf+fFfFFfFf
