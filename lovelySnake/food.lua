@@ -7,7 +7,7 @@ function Food:new(x,y,energy)
 	self.pos = Vector(x,y)
 
 	-- Energy level when food respawns
-	self.energy = energy
+	self.energy = energy or 1
 	self.eaten = false
 end
 
@@ -18,13 +18,8 @@ function Food:update()
 		self.eaten = true
 	end
 	if(self.eaten)then
-		if(self.energy < 1)then
-			self:respawn()
-			self.eaten = false
-		else
-			score = score + 1
-			grid.snake.grow = true
-			self.energy = self.energy -1
-		end
+		score = score + 1
+		grid.snake.grow = true
+		self.energy = self.energy -1
 	end
 end

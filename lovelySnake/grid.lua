@@ -7,9 +7,9 @@ Grid = Object:extend()
 
 function Grid:new()
 	self.elements = {}
-	for i = 0 ,GAMEGRIDHEIGHT do
+	for i = 0 ,GAMEGRIDHEIGHT-1 do
 		self.elements[i] = {}
-		for j=0 , GAMEGRIDLENGTH do
+		for j=0 , GAMEGRIDLENGTH-1 do
 			self.elements[i][j] = 0
 		end
 	end
@@ -23,10 +23,10 @@ function Grid:new()
 end
 
 function Grid:spawnFood()
-	local spawnLoc = Rng:next() % GAMEGRIDLENGTH * GAMEGRIDHEIGHT - #self.snake.segments
+	local spawnLoc = Rng:next() % (GAMEGRIDLENGTH * GAMEGRIDHEIGHT - #self.snake.segments)
 	local curLoc = 0
-	for x=0,GAMEGRIDLENGTH do
-		for y=0,GAMEGRIDHEIGHT do
+	for x=0,GAMEGRIDLENGTH-1 do
+		for y=0,GAMEGRIDHEIGHT-1 do
 			if(self.elements[y][x] == 0) then
 				if(curLoc == spawnLoc) then
 					table.insert(self.food,Food(x,y,FOOD_RESPAWN_ENERGY))
@@ -53,8 +53,8 @@ function Grid:update()
 end
 
 function Grid:draw()
-	for i = 0 ,GAMEGRIDHEIGHT do
-		for j=0 , GAMEGRIDLENGTH do
+	for i = 0 ,GAMEGRIDHEIGHT-1 do
+		for j=0 , GAMEGRIDLENGTH-1 do
 			if(self.elements[i][j]==1)then
 				love.graphics.setColor({1.0,1.0,1.0})
 				love.graphics.rectangle("fill", j*GAMEGRIDPOINTSIZE + GAMEGRIDBORDERSIZE, i*GAMEGRIDPOINTSIZE + GAMEGRIDBORDERSIZE, GAMEENTITYSIZE, GAMEENTITYSIZE)
